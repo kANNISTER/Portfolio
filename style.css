@@ -430,3 +430,8 @@ footer {
 footer p {
   text-align: center;
 }
+.full-width-text {
+  text-align: justify;
+  width: 100%;
+}
+
